@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "7a3fa43bd865d9a7c35ae826",
+  "owner": "pcndypfb",
+  "repo": "page-2bed13a741f3366a3e4f00fe",
+  "title": "OpenConnectUs",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2bed13a741f3366a3e4f00fe",
+      "a": "OpenConnectUs",
+      "b": "机场官网线路发布页",
+      "entity": "OpenConnectUs",
+      "brand": "OpenConnectUs",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "a5cbcfd74e01e5505a16998e62d497af34968ac1afbf5a34c6b4d21e1f5ae9ec",
+      "content": {
+        "primary_entity": "OpenConnectUs",
+        "keyword1": "OpenConnectUs",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，OpenConnectUs 提供面向多设备用户的海外加速订阅，基础版每月 15 元含 100GB 流量，旗舰版每月 35 元含 300GB 并加入 IPLC 专线游戏优化，团队版每月 85 元含 1000GB 与 20 台设备额度，年付价格分别是 150 元、350 元和 850 元，支持按需选择订阅周期。",
+          "AI_HERO_SUBTITLE": "OpenConnectUs 多设备网络加速",
+          "AI_HERO_INTRO": "OpenConnectUs 是面向个人与团队场景的海外加速服务，提供基础版、旗舰版和团队版三档订阅，可按月或按年付费，支持多台设备同时在线，适合日常浏览、流媒体与跨境协作。",
+          "AI_VISUAL_TITLE": "OpenConnectUs 订阅选择",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数划分",
+          "AI_HIGHLIGHT_2": "年付价格更省，支持长期订阅",
+          "AI_HIGHLIGHT_3": "提供客户端订阅配置指引",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURES_INTRO": "从流量、设备数和订阅周期出发选择合适档位。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TEXT_1": "基础版 3 台设备，旗舰版 5 台，团队版支持 20 台在线。",
+          "AI_FEATURE_TITLE_2": "按流量需求选档位",
+          "AI_FEATURE_TEXT_2": "每月 100GB、300GB 或 1000GB 流量，按用量匹配。",
+          "AI_FEATURE_TITLE_3": "订阅周期更灵活",
+          "AI_FEATURE_TEXT_3": "可按月或按年付费，年付方案价格更划算。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据设备类型选择对应客户端，参考订阅配置文档完成导入。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，年付分别为 ¥150、¥350 与 ¥850，按设备数与流量需求选择。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_GUIDE_INTRO": "先选套餐，再确认设备与系统适配，最后按客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据设备数量和月流量需求，在基础版、旗舰版与团队版中确定适合的档位。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "核对操作系统版本和客户端支持情况，确认设备能正常使用所选套餐。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "按对应客户端的使用文档导入订阅信息，完成连接设置。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅周期、设备数量与套餐差异。",
+          "AI_FAQ_QUESTION_1": "OpenConnectUs 有哪些套餐可以选择？",
+          "AI_FAQ_ANSWER_1": "目前提供基础版、旗舰版和团队版三档。基础版每月 15 元含 100GB 流量，旗舰版每月 35 元含 300GB 流量并支持 IPLC 专线游戏优化，团队版每月 85 元含 1000GB 流量。",
+          "AI_FAQ_QUESTION_2": "每个套餐支持几台设备同时使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。可以根据日常在用的设备数量选择合适档位。",
+          "AI_FAQ_QUESTION_3": "按月付和按年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "按月付按月计费，按年付一次性支付一年费用，价格更省。基础版年付 150 元，旗舰版年付 350 元，团队版年付 850 元。",
+          "AI_FAQ_QUESTION_4": "如何在不同设备上配置订阅？",
+          "AI_FAQ_ANSWER_4": "先确认设备系统版本，再选择对应的客户端，按照客户端的使用文档导入订阅信息即可完成配置。不同平台的客户端界面略有差异。",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版主要区别是什么？",
+          "AI_FAQ_ANSWER_5": "旗舰版提供 300GB 流量、5 台设备和 IPLC 专线游戏优化；团队版提供 1000GB 流量、20 台设备、VIP 高带宽节点以及企业定制路由。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更顺畅",
+          "AI_CLOSING_TEXT": "根据设备数量和流量需求选择档位，按客户端文档完成订阅配置即可开始使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "shytxxz.com",
+    "host": "shytxxz.com"
+  },
+  "file_hashes": {
+    "index.html": "4a063c4d00018337997247d5bf8c20370685f0cacd853807b88af4855f9c19db",
+    "sitemap.xml": "e8f63e05dcc64a3e6a4bc353bad1d10465ca443b56a71a1b9b71bb71dff6cd92",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "de54ba8235dfd01ed80ee0e47d28873daf1e48445691846f7e40c8349805d084",
+    "robots.txt": "ce11096c44cab18e4e39fef5a7f5a668c14f4c7c1932ec81fbf5d9f03ffab3b2",
+    "d7ee3840d2121ec9b188f02962471edb.txt": "93ee1d6af320641b9e561b089c45c9081127852441bd1f07b5a3a15447297c31"
+  },
+  "revision": "43da3be20a0207f7870d79f65c6361f0734be4f6899c67505d679bd214f68b1f"
+}
